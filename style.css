@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.number{
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+button{
+    text-align: center;
+    margin-left: 45%;
+    width: 150px;
+    padding: 9px;
+    border: none;
+    border-radius: 10px;
+    background-color: gold;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
